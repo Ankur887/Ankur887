@@ -25,7 +25,7 @@ Welcome to my GitHub! I'm a passionate developer with a keen interest in Artific
 | **AI Agents**       | OpenAI API, Rasa, Dialogflow                         |
 | **Robotics**        | ROS, Arduino, Raspberry Pi, OpenCV                   |
 | **Fullstack**       | JavaScript, TypeScript, React, Node.js, Express      |
-| **Game Development**| Unity, Unreal Engine, C#, JavaScript (Phaser.js)     |
+| **Game Development**| Unity, Unreal Engine, C#,      |
 | **Databases**       | MongoDB, MySQL, PostgreSQL                           |
 | **DevOps & Cloud**  | Docker, Kubernetes, AWS, Azure                       |
 | **Tools & Others**  | Git, GitHub Actions, JIRA, VS Code, Linux            |
